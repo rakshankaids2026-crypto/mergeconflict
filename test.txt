@@ -1,1 +1,1 @@
-Created test.txt file
+city : bangalore
